@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"actionButtons": {
+			
+		},
+		"files.associations": {
+			"task.h": "c",
+			"st7789.h": "c",
+			"esp_lcd_types.h": "c",
+			"freertos.h": "c",
+			"portmacro.h": "c"
+		}
+	}
+}

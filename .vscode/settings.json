@@ -1,0 +1,16 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.flashType": "UART",
+    "idf.port": "COM8",
+    "idf.portWin": "COM8",
+    "files.associations": {
+        "esp_log.h": "c",
+        "esp_lcd_panel_vendor.h": "c",
+        "spi_master.h": "c",
+        "decode_image.h": "c",
+        "tjpgd.h": "c",
+        "st7789.h": "c",
+        "string.h": "c",
+        "esp_heap_caps.h": "c"
+    }
+}
